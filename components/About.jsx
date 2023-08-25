@@ -6,7 +6,7 @@ const About = () => {
     return (
         <div
             id="about"
-            className="flex items-center w-full p-2 py-16 md:h-screen"
+            className="flex items-center w-full p-2 py-16 md:h-screen" 
         >
             <div className="max-w-[1240px] m-auto md:grid grid-cols-3 gap-8">
                 <div className="col-span-2">
@@ -19,7 +19,7 @@ const About = () => {
                         <span className="uppercase font-bold">magic</span>
                     </p>
                     <p>
-                        I started out my professional career in the kitchen.
+                        I started out my professional career in the kitchen. 
                         From restaurant to restaurant I have worked with
                         different people and cuisines of all styles and
                         backgrounds. The thread that connects them all is the
