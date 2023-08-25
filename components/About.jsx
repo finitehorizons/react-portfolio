@@ -19,14 +19,16 @@ const About = () => {
                         <span className="uppercase font-bold">magic</span>
                     </p>
                     <p>
-                        I started out my professional career in the kitchen. I
-                        have worked in many different restaurants with different
-                        styles and backgrounds. The thread that connects them
-                        all is the passion and ability to create something
-                        memorable out of something simple. It feels like{" "}
-                        <em>magic</em>. That love for making something beautiful
-                        and unique out of nothing is what drove me to software
-                        development. 
+                        I started out my professional career in the kitchen.
+                        From restaurant to restaurant I have worked with
+                        different people and cuisines of all styles and
+                        backgrounds. The thread that connects them all is the
+                        passion and ability to create something memorable out of
+                        something simple. It feels like <em>magic</em>. That
+                        love for making something beautiful and unique out of
+                        nothing is what drove me to software development. It is
+                        a wonderful feeling to make something beautiful and
+                        unique out of nothing.
                     </p>
                     <p className="py-2 text-gray-600">
                         Lorem ipsum, dolor sit amet consectetur adipisicing

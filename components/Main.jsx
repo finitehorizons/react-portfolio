@@ -16,16 +16,19 @@ const Main = () => {
             <div className="max-w[1240px] w-full h-full mx-auto p-2 flex justify-center items-center">
                 <div>
                     <p className="text-sm tracking-widest text-gray-600 uppercase">
-                        lets build the world together
+                        hello, my name is,
                     </p>
                     <h1 className="py-4 text-gray-700">
-                        I'm <span className="text-[#013780]">Chris.</span>
+                        <span className="text-[#013780]">christopher</span>{" "}
+                        <span className="text-[#c37a00]">
+                            goodwin
+                        </span>
                     </h1>
                     <h1 className="py-2 text-gray-700 ">
-                        A Front-End Web Developer
+                        I build things for the web
                     </h1>
                     <p className="py-4 text-gray-600 max-w-[70%] m-auto">
-                        I am a web developer that specializes in building (and
+                        I am a front-end web developer that specializes in building (and
                         sometimes designing) responsive web applications. I am
                         currently focused on front-end development while
                         learning back-end technologies.
