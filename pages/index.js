@@ -11,7 +11,7 @@ export default function Home() {
     return (
         <div>
             <Head>
-                <title>christopher||Goodwin</title>
+                <title>chris. | Front-End Developer</title>
                 <link rel="icon" href="/favicon.ico" />
             </Head>
             <Navbar />

@@ -15,10 +15,18 @@ const About = () => {
                     </p>
                     <h2 className="py-4">Who I am</h2>
                     <p className="py-2 text-gray-600">
-                        /// It feels like <span className="uppercase font-bold">magic</span>
+                        /// It feels like{" "}
+                        <span className="uppercase font-bold">magic</span>
                     </p>
                     <p>
-                        I started out my career in the kitchen. I have worked in many different restaurants with different styles and backgrounds. The connecting thread to them all is the passion to create something memorable out of something simple. It feels like <span>magic</span>.
+                        I started out my professional career in the kitchen. I
+                        have worked in many different restaurants with different
+                        styles and backgrounds. The thread that connects them
+                        all is the passion and ability to create something
+                        memorable out of something simple. It feels like{" "}
+                        <em>magic</em>. That love for making something beautiful
+                        and unique out of nothing is what drove me to software
+                        development. 
                     </p>
                     <p className="py-2 text-gray-600">
                         Lorem ipsum, dolor sit amet consectetur adipisicing

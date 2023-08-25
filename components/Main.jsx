@@ -19,7 +19,7 @@ const Main = () => {
                         lets build the world together
                     </p>
                     <h1 className="py-4 text-gray-700">
-                        I'm <span className="text-[#013780]">Chris</span>
+                        I'm <span className="text-[#013780]">Chris.</span>
                     </h1>
                     <h1 className="py-2 text-gray-700 ">
                         A Front-End Web Developer
